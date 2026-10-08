@@ -1,0 +1,11 @@
+.DS_Store
+.viminfo
+.vim/.netrwhist
+.zsh/env.local.zsh
+.zsh/alias.local.zsh
+.zsh/motd.zsh
+.zsh/zsh_history
+.zsh/.zsh_history
+.zsh/.zcompdump
+.zsh/.zcompcache
+.zsh/.zsh_sessions
