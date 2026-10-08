@@ -1,0 +1,16 @@
+## CHANNEL-1
+
+```
+TREBLE  7
+MIDDLE  3-4
+BASS    3-4
+```
+
+## CHANNEL-2
+
+```
+TREBLE  4
+MIDDLE  2-3
+BASS    7
+REVERB  2
+```
