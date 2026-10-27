@@ -14,9 +14,9 @@ FX_SELECT   OFF
 GAIN        2
 VOLUME2     7
 VOICE       BLACKFACE
-TREBLE      4
+TREBLE      3.5-4
 MID         3
-BASS        7
+BASS        7-8
 FX_LEVEL    2
 FX_SELECT   OFF or REVERB
 ```
